@@ -1,0 +1,20 @@
+{
+  "name": "ciclos",
+  "version": "1.0.0",
+  "main": "bankBalance.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "javascript",
+    "npm",
+    "ciclos"
+  ],
+  "author": "LuisCurzi22",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
